@@ -2,7 +2,7 @@
 #include "esphome/core/log.h"
 
 namespace esphome {
-namespace m5stack4relay {
+namespace m5stack_4relay {
 
 static const char *const TAG = "m5stack_4_relay";
 
@@ -61,5 +61,5 @@ void M5Stack4Relay::write1_byte_(uint8_t register_address, uint8_t data) {
   }
 }
 
-}  // namespace m5stack4relay
+}  // namespace m5stack_4relay
 }  // namespace esphome
