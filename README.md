@@ -5,4 +5,4 @@ Custom or modified components for ESPHome
 Credits:
     m5stack4relay: 
         Author:   Koen Breeman
-        Repo:     https://github.com/KoenBreeman/ESPHome_custom_components/tree/main/esphome/components/m5stack4relay
+        Source URL:     https://github.com/KoenBreeman/ESPHome_fork/tree/m5stack4relayNew/esphome/components/m5stack_4relay
